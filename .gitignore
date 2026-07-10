@@ -1,0 +1,17 @@
+# .NET build output
+bin/
+obj/
+
+# Publish outputs
+publish/
+MixTrayNONET8version/
+MixTrayNONET8version.zip
+
+# Runtime files
+*.log
+mix_config.json
+
+# VS files
+.vs/
+*.user
+*.suo
