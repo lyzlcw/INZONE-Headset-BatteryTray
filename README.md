@@ -30,3 +30,5 @@ dotnet publish -c Release -r win-x64 --self-contained false -o publish
 `TECHNICAL_DOC.md` — 完整技术文档
 
 `PROTOCOL_DISCOVERY.md` — USB CDC 协议逆向分析
+
+[Vibe Coding or AI Generated]
